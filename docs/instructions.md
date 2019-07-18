@@ -101,7 +101,7 @@ You are the one leading a new project forward and need to setup a basic backlog 
 * As part of the system, we need to consume, transform and save telemetry in order to fulfill the gap that currently exist in the implementation.
 * As a catcher of the project, I need documentation that informs me how the system works, in order to quickly be up to date whenever needed.
 
-7. Check out the backlog view and test to re-sort the User Stories by using drag and drop. Then drag the top 3 most important user stories into the `Iteration 1` slot that you find on the right-hand side. This means that we plan to work on these during the first iteration/sprint.
+7. Check out the backlog view and test to re-sort the User Stories by using drag and drop. By default the user stories will get added to the default iteration but you can drag and drop them to different "iterations" or "sprints as needed. A user story that is put within a specific sprint is then planned to be worked upon at that time.
 
 8. Click on the Boards menu item on the left-hand side to see the same backlog as a Kanban board instead. From here you can track and update the user stories as we progress. Try dragging a few of the User Stories to the `Active` column.
 
