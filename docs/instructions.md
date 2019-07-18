@@ -78,13 +78,13 @@ You are the one leading a new project forward and need to setup a basic backlog 
 
 * The customer will the continue and build and deploy ML-models for predictive maintenance on top of the data, but that is outside of the scope of our engagement.
 
-### Todo in GitHub
+### Todo in Azure DevOps
 
 1. Login to Azure DevOps (https://dev.azure.com).
 
 2. In real world we might work in the customers organization and project but this time we'll setup a new organization (name it anything you want) and project. Create a new organization by clicking on the `+ New organization` link in the lower left corner and follow the instructions. If you already have an organization that you feel ok to play around with, you can re-use it instead of creating a new.
 
-3. Inside your new organization create a new project by clicking on `+ Create Project` button in the top right corner. Name your project anything you want, use Private and have a quick look at the options you would have if you click on the `Advanced` options. This is where you can select what "work item process" you want to work with and that will give you different Work Item Types to work with. Keep the default values of `Git` and `Agile`
+3. Inside your new organization create a new project by clicking on `+ Create Project` button in the top right corner. Name your project anything you want, use Private and have a quick look at the options you would have if you click on the `Advanced` options. This is where you can select what "work item process" you want to work with and that will give you different Work Item Types to work with. In this example we'll use the `Agile`template so make sure that is selected before you continue.
 
 
 4. Once created you'll be greeted to your new project and asked how you want to continue. Let's go to `Boards->Backlogs`.
